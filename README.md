@@ -17,9 +17,9 @@ Our proposed method on training an encoder to learn panel-specific degradation r
 Overall framework of DREUDC, which utilizes the panel-specific degradation representation encoder by embedding the encoder output to the restoration network.
 
 ## Datasets
-Our collected dataset can be downloaded via these links. 
+Our collected dataset can be downloaded via this link. 
 * [Google Drive](https://drive.google.com/drive/folders/1k4RQQJhNNKa3J_XC0lI2XGojL8xWCUA9?usp=sharing)
-* [Hugging Face](https://huggingface.co/datasets/obaksa/CommercialUDC)
+<!-- * [Hugging Face](https://huggingface.co/datasets/obaksa/CommercialUDC) -->
 
 Our dataset can only be used for non-commercial research purposes under the condition of properly attributing the original authors. All the images are collected from DIV2K dataset. The copyright belongs to SK hynix Inc. and the original dataset owners.
 
