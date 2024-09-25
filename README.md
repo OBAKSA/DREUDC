@@ -43,6 +43,9 @@ Our dataset can only be used for non-commercial research purposes under the cond
 }
 ```
 
+## Contact
+If you have any questions, please reach us by e-mail (yjymoh0211@snu.ac.kr).
+
 ## Acknowledgements
 This project is based on the following projects. We thank the authors for releasing their great work as open-source.
 * [FFTformer](https://github.com/kkkls/FFTformer)
