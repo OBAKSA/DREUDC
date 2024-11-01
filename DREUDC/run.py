@@ -10,9 +10,9 @@ from data import ImageDataset_raw2rgb
 
 device = torch.device('cuda')
 
-encoder_path = './pretrained_models/encoder.pth'
-axon_path = './pretrained_models/axon.pth'
-zfold_path = './pretrained_models/zfold.pth'
+encoder_path = './pretrained_models/dreudc/encoder.pth'
+axon_path = './pretrained_models/dreudc/axon.pth'
+zfold_path = './pretrained_models/dreudc/zfold.pth'
 data_path = './dataset/'
 
 # Parse arguments
