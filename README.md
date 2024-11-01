@@ -20,8 +20,10 @@ Our proposed method on training an encoder to learn panel-specific degradation r
 
 Overall framework of DREUDC, which utilizes the panel-specific degradation representation encoder by embedding the encoder output to the restoration network.
 
-## Datasets
+## Datasets & Pretrained Models
 Our collected dataset can be downloaded via this link. 
+
+Pretrained models of DREUDC and the compared methods are also available via the same link. Unzip the files under `/pretrained_models`.
 * [Google Drive](https://drive.google.com/drive/folders/1k4RQQJhNNKa3J_XC0lI2XGojL8xWCUA9?usp=sharing)
 
 You can use our MATLAB code raw2rgb.m, or any other conversion methods to generate rgb images.
@@ -52,3 +54,10 @@ This project is based on the following projects. We thank the authors for releas
 * [NAFNet](https://github.com/megvii-research/NAFNet)
 * [Restormer](https://github.com/swz30/Restormer)
 * [DASR](https://github.com/csjliang/DASR)
+* [BNUDC](https://github.com/JaihyunKoh/BNUDC)
+* [SRUDC](https://github.com/NamecantbeNULL/SRUDC)
+* [DAGF](https://github.com/varun19299/deep-atrous-guided-filter)
+* [DWFormer](https://github.com/SummerParadise-0922/MPGNet)
+* [PPM-UNet](https://github.com/jnjaby/AlignFormer)
+* [AWNet](https://github.com/Charlie0215/AWNet-Attentive-Wavelet-Network-for-Image-ISP)
+* [PyNet](https://github.com/aiff22/PyNET)
