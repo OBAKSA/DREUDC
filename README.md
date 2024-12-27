@@ -37,11 +37,13 @@ Our dataset can only be used for non-commercial research purposes under the cond
 
 ## Citation
 ```
-@inproceedings{oh2024panel,
+@inproceedings{oh2025panel,
   title={Panel-Specific Degradation Representation for Raw Under-Display Camera Image Restoration},
   author={Oh, Youngjin and Lee, Keuntek and Lee, Jooyoung and Lee, Dae-Hyun and Cho, Nam Ik},
   booktitle={European Conference on Computer Vision},
-  year={2024}
+  pages={359--375},
+  year={2025},
+  organization={Springer}
 }
 ```
 
