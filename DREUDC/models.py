@@ -1,3 +1,14 @@
+# ---------------------------------------------------------------------------
+# This file incorporates work from Restormer, FFTformer, covered by the following
+# copyright and permission notice:
+#
+#   Restormer : Copyright (c) 2022 Syed Waqas Zamir and contributors
+#   FFTformer : Copyright (c) 2023 kkkls
+#   Licensed under the MIT License.
+#   
+#   Modifications made by Youngjin Oh
+# ---------------------------------------------------------------------------
+
 import math
 import torch
 import torch.nn as nn
